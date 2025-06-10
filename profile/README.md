@@ -1,6 +1,6 @@
 <div align="center">
-<img alt="logo" src="/profile/images/logo.png" height="256px">
-<h3 align="center" style="font-size: 24px"><b>⛰️ 광덕방범대</b></h3>
+  <img alt="logo" src="/profile/images/logo.png" height="256px">
+  <h3 align="center">광덕방범대 ⛰️</h3>
 </div>
 
 ### 광덕방범대에 오신걸 환영합니다. 🤗

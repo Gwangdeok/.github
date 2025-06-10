@@ -1,7 +1,8 @@
 <div align="center">
 <img alt="logo" src="/profile/images/logo.png" height="256px"><br>
-<h3 align="center">광덕방범대 ⛰️</h3>
+<h1 align="center">광덕방범대 ⛰️</h1>
 </div>
+<br/>
 
 ### 광덕방범대에 오신걸 환영합니다. 🤗
 > 광덕 밸리를 다시 영광의 순간으로
